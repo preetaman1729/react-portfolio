@@ -41,7 +41,7 @@ function About() {
                   <ul>
                     <li><i className="bi"><BiChevronRight/></i> <strong>Age:</strong> <span>26</span></li>
                     <li><i className="bi"><BiChevronRight/></i> <strong>Degree:</strong> <span>Graduate</span></li>
-                    <li><i className="bi"><BiChevronRight/></i> <strong>Email:</strong> <span>preetaman.github@gmail.com</span></li>
+                    <li><i className="bi"><BiChevronRight/></i> <strong>Email:</strong> <span>preetaman1729@gmail.com</span></li>
                   </ul>
                 </div>
               </div>
@@ -112,7 +112,7 @@ function About() {
               <ul>
                 <li>50 Burgby Avenue, Brampton</li>
                 <li>+1 437-667-6964</li>
-                <li>preetaman.github@gmail.com</li>
+                <li>preetaman1729@gmail.com</li>
               </ul>
               </p>
             </div>

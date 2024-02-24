@@ -68,7 +68,7 @@ function Contact() {
               <div className="email">
                 <i className="bi"><BiEnvelope/></i>
                 <h4>Email:</h4>
-                <p>preetaman.github@gmail.com</p>
+                <p>preetaman1729@gmail.com</p>
               </div>
 
               <div className="phone">
