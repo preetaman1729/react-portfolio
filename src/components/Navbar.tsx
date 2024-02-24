@@ -43,9 +43,9 @@ function Navbar() {
     <header id="header" className="fixed-top">
     <div className="container-fluid d-flex justify-content-between align-items-center">
 
-      <h1 className="logo me-auto me-lg-0"><a href="index.html">Kelly</a></h1>
+      {/* <h1 className="logo me-auto me-lg-0"><a href="index.html">Amanpreet</a></h1> */}
       
-      {/* <a href="index.html" className="logo"><img src="assets/img/logo.png" alt="" className="img-fluid"/></a> */}
+      <a href="/" className="logo"><img src="/logo.png" alt="Amanpreet" className="img-fluid"/></a>
 
       <nav id="navbar" className={`${isMobile ? 'navbar-mobile order-last order-lg-0' : 'navbar order-last order-lg-0'}`}>
         <ul>
