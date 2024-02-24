@@ -9,7 +9,7 @@ import { BiChevronRight,BiSmile,BiText,BiTime,BiAward } from 'react-icons/bi';
 
 function About() {
   // ulr to pdf version of my resume
-  const pdfUrl = "https://github.com/preetaman1729/react-portfolio/blob/main/public/resume.pdf";
+  const pdfUrl = "/resume.pdf";
 
     return (
         <>
