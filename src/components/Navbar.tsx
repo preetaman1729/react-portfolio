@@ -66,7 +66,7 @@ function Navbar() {
         <a href="#" className="facebook"><BiLogoFacebook/></a>
         <a href="#" className="instagram"><BiLogoInstagram/></a>
         <a href="#" className="linkedin"><BiLogoLinkedin/></a>
-        <a href="https://github.com/Aman98-kaur" target="_blank" className="github"><BiLogoGithub/></a>
+        <a href="https://github.com/preetaman1729" target="_blank" className="github"><BiLogoGithub/></a>
       </div>
 
     </div>
