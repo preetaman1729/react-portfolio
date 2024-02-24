@@ -19,7 +19,7 @@ function Navbar() {
     // toggles the current page highlight
     const [activeItems, setActiveItems] = useState<boolean[]>(() => {
         const storedState = localStorage.getItem('activeItems');
-        return storedState ? JSON.parse(storedState): [false,false,false,false,false];
+        return storedState ? JSON.parse(storedState): [true,false,false,false,false];
     });
 
     useEffect(() =>{
