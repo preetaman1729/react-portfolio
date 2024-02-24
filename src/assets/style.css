@@ -765,6 +765,19 @@ section {
   background: #ffb727;
 }
 
+.project .advanced {
+  width: 200px;
+  position: absolute;
+  top: 18px;
+  right: -68px;
+  transform: rotate(45deg);
+  z-index: 1;
+  font-size: 14px;
+  padding: 1px 0 3px 0;
+  background: #ffb727;
+  color: #fff;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
